@@ -1,0 +1,2 @@
+include ':app', ':app-lib-soomthmarker'
+rootProject.name='android-gd-smoothmarker'
