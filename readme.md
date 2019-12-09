@@ -3,7 +3,7 @@
 ## 概述
 
        本demo模拟实时向List添加坐标点,MovingPointOverlay 根据自己绑定的坐标点，向前移动，根据实际需求会有CarId作为
-   Map的Key,因此支持多小车移动。
+     Map的Key,因此支持多小车移动。
 
 ## 架构设计
 
